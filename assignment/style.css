@@ -1,20 +1,20 @@
 /* Add a background color to the header element */
 header {
-    background-color: chocolate;
+    background-color: #b9936c;
 }
 /* Add a fun background color to the main element */
 main {
-    background-color: rgb(15, 8, 8);
+    background-color: #dac292;
 }
 
 /* Align the h1 containing your name in the center of the header*/
 h1{
-    align-items: center;
+    text-align: center;
 }
 
 /* Make your p tag a different color and italic */
 p{
-    color: darkcyan;
+    color: #e6e2d3;
     font-style: italic;
 }
 
@@ -29,5 +29,5 @@ ul{
 
 /* Add a background color to the footer element */
 footer{
-    background-color: azure;
+    background-color: #c4b7a6;
 }
